@@ -1,2 +1,4 @@
 # DS-GA-1003
-Homework and project of DS-GA-1003
+Here is my implementation of labs in DS-GA-1003, NYU  
+With my own understanding and analysis  
+ 
